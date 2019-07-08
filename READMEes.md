@@ -15,20 +15,20 @@ _Una lista de mis comandos mas usados_
 
 ### Getting & Creating Projects
 
-| Command | Description |
+| Comando | Descripción |
 | ------- | ----------- |
-| `git init` | Initialize a local Git repository |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
+| `git init` | Inicialice un repositorio Git local |
+| `git clone ssh://git@github.com/[username]/[repository-name].git` | Cree una copia local de un repositorio remoto |
 
 ### Basic Snapshotting
 
-| Command | Description |
+| Comando | Descripción |
 | ------- | ----------- |
-| `git status` | Check status |
-| `git add [file-name.txt]` | Add a file to the staging area |
-| `git add -A` | Add all new and changed files to the staging area |
-| `git commit -m "[commit message]"` | Commit changes |
-| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git status` | Compruebe estado |
+| `git add [file-name.txt]` | Añada un archivo al área de ensayo |
+| `git add -A` | Agregue todos los archivos nuevos y modificados al área de preparación |
+| `git commit -m "[commit message]"` | Cometa cambios |
+| `git rm -r [file-name.txt]` | Elimine un archivo (o carpeta) |
 
 ### Branching & Merging
 
